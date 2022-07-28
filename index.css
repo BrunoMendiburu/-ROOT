@@ -1,0 +1,34 @@
+:root {
+  /* BASIC COLORS */
+  --blue: #0000ff;
+  --green: #00ff00;
+  --red: #ff0000;
+  --orange: #ffa500;
+  --yellow: #ffff00;
+  --pink: #ff00ff;
+  /* ACID COLORS*/
+  --acid-green: #00ff1fff;
+  --acid-pink: #ff006bff;
+  --acid-lightblue: #00e0ffff;
+  --acid-blue: #2929ff;
+  /* PASTEL COLORS */
+  --pastel-pink: #ff96c2;
+  --pastel-blue: #4d4dff;
+  --pastel-green: #61ff61;
+  /* DARK COLORS */
+  --dark-green: #001c03;
+  --dark-blue: #00003d;
+  --dark-pink: #6e003d;
+  /* WHITE COLORS */
+  --white-pink: #ffcfe3;
+}
+
+* {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
